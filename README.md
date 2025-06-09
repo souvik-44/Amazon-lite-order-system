@@ -1,24 +1,17 @@
-# 🛍️ Amazon Lite Order System
+# Amazon Lite Ordering System
 
-A beginner-friendly Python project that mimics a basic Amazon-style online ordering system.
+This is a beginner-level Python program that mimics a simple Amazon-like ordering experience. It uses basic Python features like classes, dictionaries, and loops.
 
----
+## Features
+- View products
+- Add to cart
+- View cart with total cost
+- Checkout system
 
-## 📦 Features
+## Requirements
+- Python 3.x
 
-- View available products
-- Add items to cart
-- View cart
-- Checkout and order placement
-- Stock validation
-
----
-
-## 🛠️ How to Run
-
-1. Clone the repository:
-
+## How to Run
 ```bash
-git clone https://github.com/souvik-44/Amazon-lite-order-system.git
-cd Amazon-lite-order-system
+python app.py
 
